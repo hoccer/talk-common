@@ -27,7 +27,7 @@
     </dependency>
     <!-- JSON-RPC annotations for protocol definition -->
     <dependency>
-      <groupId>better</groupId>
+      <groupId>hoccer</groupId>
       <artifactId>better-jsonrpc-annotations</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>

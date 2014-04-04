@@ -570,6 +570,8 @@ public interface ITalkRpcServer {
         public String downloadUrl;
     }
 
+    void setNotificationAvailability(boolean isAvailable);
+
 }
 
 /**
